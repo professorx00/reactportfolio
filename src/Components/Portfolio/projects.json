@@ -1,0 +1,103 @@
+[
+  {
+    "id":1,
+    "name": "Valhalla",
+    "demo": "https://warm-dusk-48851.herokuapp.com/",
+    "code": "https://github.com/professorx00/CriticalCode",
+    "tech": ["EJS","Node","Express","Express layouts","passport","AWS S3","Bootstrap","MySQL","Sequelize"],
+    "img": "Vahalla.gif",
+    "imgstatic":"VahallaStatic.jpg",
+    "description": ""
+  },
+  {
+    "id":2,
+    "name": "Burger Town",
+    "demo": "https://whispering-taiga-49037.herokuapp.com/",
+    "code": "https://github.com/professorx00/BurgerApp",
+    "tech": ["NodeJS", "ExpressJS", "Materialize", "Handlebars Layout", "MySQL", "Sequelize"],
+    "img": "Burger.gif",
+    "imgstatic":"BurgerStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Trivia Quiz Game",
+    "demo": "https://professorx00.github.io/QuizGame/",
+    "code": "https://github.com/professorx00/QuizGame",
+    "tech": ["Jquery","Ajax","Open Trivia API"],
+    "img": "QuizGame.gif",
+    "imgstatic":"QuizGameStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "NEWT",
+    "demo": "https://cbc-nutrition.web.app/",
+    "code": "https://github.com/professorx00/NEWT-Application",
+    "tech": ["Jquery","Ajax", "Firebase Authentication", "Firebase Database"],
+    "img": "Newt.gif",
+    "imgstatic":"NewtStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Friend Finder: Rick and Morty",
+    "demo": "https://agile-headland-24805.herokuapp.com/",
+    "code": "https://github.com/professorx00/FriendFinder2",
+    "tech": ["Jquery", "Node JS", "MySQL"],
+    "img": "FriendFinder.gif",
+    "imgstatic":"FriendFinderStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Word Finder: Movie Edition",
+    "demo": "https://professorx00.github.io/What-Movie/",
+    "code": "https://github.com/professorx00/What-Movie",
+    "tech": ["Jquery", "Javascript", "Bootstrap"],
+    "img": "MovieGuess.gif",
+    "imgstatic":"MovieGuessStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Rock Paper Scissors Lizard Spock",
+    "demo": "https://professorx00.github.io/RockPaperScissorsLizardSpock/",
+    "code": "https://github.com/professorx00/RockPaperScissorsLizardSpock",
+    "tech": ["Jquery", "Javascript"],
+    "img": "rockPaper.gif",
+    "imgstatic":"rockPaperStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Train Tracker",
+    "demo": "https://traintimelogger.web.app/",
+    "code": "https://github.com/professorx00/Train-Tracker-Logger",
+    "tech": ["Jquery", "Javascript", "MySQL"],
+    "img": "Train.gif",
+    "imgstatic":"TrainStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "GIF Retriever",
+    "demo": "https://professorx00.github.io/Gif-Retreiver/",
+    "code": "https://github.com/professorx00/Gif-Retreiver",
+    "tech": ["Jquery", "Javascript","Giphy API"],
+    "img": "GifRetriever.gif",
+    "imgstatic":"GifRetrieverStatic.jpg",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Smash Brothers Fighter",
+    "demo": "https://professorx00.github.io/Smash_Brother_Fighter_Clicker/",
+    "code": "https://github.com/professorx00/Smash_Brother_Fighter_Clicker",
+    "tech": ["Jquery", "Javascript"],
+    "img": "smash.gif",
+    "imgstatic":"smashStatic.jpg",
+    "description": ""
+  }
+]
+
