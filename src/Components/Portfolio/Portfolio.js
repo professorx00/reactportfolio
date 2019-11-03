@@ -11,7 +11,7 @@ function ImageMouseExit(event,jpg){
 
 function Portfolio() {
   return (
-    <div className="container">
+    <div className="container" key={Math.random()}>
       <a name="Portfolio" />
       <div className="row">
         <div className="col-md-12 bg-info Contact">

@@ -21,7 +21,7 @@ function ContactMe() {
             <p className="text-center">Social Media</p>
             <p className="lead text-center">
               <a className="btn btn-primary btn-lg" href="https://www.linkedin.com/in/programmingdad/" ><i className="fab fa-linkedin"></i></a>
-              <a className="btn btn-primary btn-lg" href="https://github.com/professorx00" ><i class="fab fa-github"></i></a>
+              <a className="btn btn-primary btn-lg" href="https://github.com/professorx00" ><i className="fab fa-github"></i></a>
             </p>
           </div>
       </div>
