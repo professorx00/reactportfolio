@@ -3,23 +3,40 @@ import React from 'react';
 function Experience() {
   return (
     <div className="container text-left">
-      <a id="Experience" />
+      
       <div className="row">
         <div className="col-md-12 text-center bg-info Contact">
-          <h1>Experience</h1><a href="#AboutMe" className="back">back to top</a>
+          <h1><a id="Experience" href="#Experience" className="text-white">Experience</a></h1><a href="#Top" className="back">back to top</a>
         </div>
       </div>
       <div className="row">
         <div className="col-md-6">
           <h3><u>Work Experience:</u></h3>
           <ul>
+          <li>
+              <ul>
+                <li><strong><u>
+                  <h5>DevOps Engineer</h5>
+                </u></strong></li>
+                <li>Tyler Technologies</li>
+                <li>January 2020 - Present</li>
+                <li>
+                  <ul>
+                    <li>Maintaining and Supporting C# 4.6 Framework Applications for internal use</li>
+                    <li>Maintaining, Creating, and Supporting CI Builds in Team City and Azure DevOps</li>
+                    <li>Writing PowerShell scripts to enhance the DevOps Processes such as User Identification in LDAP environments</li>
+                    <li></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
             <li>
               <ul>
                 <li><strong><u>
                   <h5>Implementation Software Engineer</h5>
                 </u></strong></li>
                 <li>Cincinnati Time Recorder of Maine (CTR Maine)</li>
-                <li>March 2015 - Present</li>
+                <li>March 2015 - January 2020</li>
                 <li>
                   <ul>
                     <li>Writing SQL Queries for custom reports that clients need</li>
@@ -67,31 +84,34 @@ function Experience() {
               </ul>
             </li>
             <br />
-            <li>
-              <ul>
-                <li><strong>
-                  <h5>Intern</h5>
-                </strong></li>
-                <li>Motion Analysis Studios</li>
-                <li>June 2004 - September 2004</li>
-                <li>
-                  <ul>
-                    <li>Work closely with Technical director to set cameras</li>
-                    <li>Run Motion Builder while capture adjust the skelton</li>
-                    <li>Apply Rig (skeleton) to model for real time capture</li>
-                    <li>Clean up motion data after capturing</li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
+            
           </ul>
         </div>
         <div className="col-md-6">
+          <ul>
+            <li>
+                <ul>
+                  <li><u><strong>
+                    <h5>Intern</h5>
+                  </strong></u></li>
+                  <li>Motion Analysis Studios</li>
+                  <li>June 2004 - September 2004</li>
+                  <li>
+                    <ul>
+                      <li>Work closely with Technical director to set cameras</li>
+                      <li>Run "Motion Builder" while capturing and adjusting the skelton</li>
+                      <li>Apply Rig (skeleton) to model for real time capture</li>
+                      <li>Clean up motion data after capturing</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+          </ul>
           <h3><u>Education:</u></h3>
           <ul>
             <li>
               <ul>
-                <li>University of New Hampshire Coding Bootcamp</li>
+              <u><strong><li>University of New Hampshire Coding Bootcamp</li></strong></u>
                 <li>June 2019 - December 2019</li>
                 <li>This 24-week program is for working professionals interested in web development or who are actively
                   seeking a career change or advancement. Even better, you can work full-time while you learn the skills to
@@ -101,7 +121,7 @@ function Experience() {
             <br />
             <li>
               <ul>
-                <li>Character Animation Certification</li>
+              <u><strong><li>Character Animation Certification</li> </strong></u>
                 <li>Animation Mentor</li>
                 <li>June 2007 - December 2009</li>
                 <li>A 2 year program on character animation. Being taught by animators from pixar, disney, blue sky</li>
@@ -110,7 +130,7 @@ function Experience() {
             <br />
             <li>
               <ul>
-                <li>Associates of Sciences, Animation</li>
+                <u><strong><li>Associates of Sciences, Animation</li></strong></u>
                 <li>Brooks College</li>
                 <li>June 2004 - December 2006</li>
                 <li>A 2 year program on character animation. Activities:Animation Club, Life drawing work shops</li>

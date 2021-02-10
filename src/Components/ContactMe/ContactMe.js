@@ -3,10 +3,10 @@ import "../ContactMe/style.css"
 function ContactMe() {
   return (
     <div className="container-fluid text-left" name="ContactMe">
-      <a id="ContactMe" />
+      
       <div className="row bg-info Contact text-center">
         <div className="col-md-12">
-          <h1 className="display-5">Contact Information</h1><a href="#AboutMe" className="back">back to top</a>
+          <h1 className="display-5"><a id="ContactMe" className="text-white" Href="#ContactMe">Contact Information</a></h1><a href="#Top" className="back">back to top</a>
         </div>
       </div>
       <div className="row bg-secondary pt-2">

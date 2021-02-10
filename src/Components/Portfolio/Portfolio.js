@@ -11,11 +11,10 @@ function ImageMouseExit(event,jpg){
 
 function Portfolio() {
   return (
-    <div className="container" key={Math.random()}>
-      <a name="Portfolio" />
+    <div className="container" key={Math.random()}>  
       <div className="row">
         <div className="col-md-12 bg-info Contact">
-          <h1>Portfolio</h1><a href="#AboutMe" className="back">back to top</a>
+          <h1><a name="Portfolio" href="#Portfolio" className="text-white">Portfolio</a></h1><a href="#Top" className="back">back to top</a>
         </div>
       </div>
       <div className="row">
