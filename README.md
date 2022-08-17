@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## edit app in dev then merge into master to deploy
 ## Available Scripts
 
 In the project directory, you can run:
