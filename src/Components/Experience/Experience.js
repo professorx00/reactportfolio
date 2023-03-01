@@ -21,6 +21,29 @@ function Experience() {
             <u>Work Experience:</u>
           </h3>
           <ul>
+
+          <li>
+              <ul>
+                <li>
+                  <strong>
+                    <u>
+                      <h5>Software Developer</h5>
+                    </u>
+                  </strong>
+                </li>
+                <li>Pinnacle Group @ Apple</li>
+                <li>Decemeber 2022 - present</li>
+                <li>
+                  <ul>
+                    <li>
+                    As a contractor for Pinnacle Group at Apple, I worked as a backend Javascript developer and Vue framework frontend developer. I was responsible for updating existing projects and developing new projects for internal use at Apple. In my backend development work, I created scalable and efficient solutions, and in my frontend development work, I created dynamic and user-friendly interfaces that aligned with Apple's brand. Through my experience, I developed a deep understanding of the importance of collaboration and communication in software development, and I am excited to leverage my skills and experience to contribute value to future projects.
+                    </li>
+                    <li></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
             <li>
               <ul>
                 <li>
@@ -31,30 +54,22 @@ function Experience() {
                   </strong>
                 </li>
                 <li>Farmhand Automation</li>
-                <li>October 2021 - Present</li>
+                <li>October 2021 - August 2022</li>
                 <li>
                   <ul>
                     <li>
-                      Develop a client facing react native application with
-                      bluetooth connection to a robotic rover which would allow
-                      for control, reporting, and mapping.
-                    </li>
-                    <li>
-                      Develop a client facing react native application with
-                      bluetooth connection to a robotic rover which would allow
-                      for control, reporting, and mapping.
-                    </li>
-                    <li>
-                      Handle creation of websocket messaging manager, used to
-                      create a connection with the robotic rover.
+                    During my time at Farmhand Automation, I had the opportunity to work on an exciting project that involved developing a client-facing React Native application with Bluetooth connection to a robotic rover. This application allowed for control, reporting, and mapping of the rover's activities. As part of my role, I handled the creation of a WebSocket messaging manager that was used to create a connection between the application and the rover. This manager was critical to ensuring that the application could communicate effectively with the rover and provide real-time updates on its status. Through this project, I developed a deep understanding of the challenges involved in developing complex software solutions and the importance of collaboration and communication in achieving success.
                     </li>
                     <li></li>
                   </ul>
                 </li>
               </ul>
             </li>
-
-            <li>
+          </ul>
+        </div>
+        <div className="col-md-6">
+          <ul>
+          <li>
               <ul>
                 <li>
                   <strong>
@@ -68,18 +83,8 @@ function Experience() {
                 <li>
                   <ul>
                     <li>
-                      Maintaining and Supporting C# 4.6 Framework Applications
-                      for internal use
+                    As a developer at Tyler Technologies, I was responsible for maintaining and supporting C# 4.6 Framework applications for internal use. This involved working closely with the development team to troubleshoot issues, identify areas for improvement, and develop solutions to optimize application performance. In addition to maintaining existing applications, I was also responsible for creating and supporting CI builds in Team City and Azure DevOps. To enhance our DevOps processes, I wrote PowerShell scripts that streamlined user identification in LDAP environments. Through my work at Tyler Technologies, I gained valuable experience in maintaining and supporting complex software systems and learned how to work efficiently in a team environment to deliver high-quality solutions that meet the needs of end-users.
                     </li>
-                    <li>
-                      Maintaining, Creating, and Supporting CI Builds in Team
-                      City and Azure DevOps
-                    </li>
-                    <li>
-                      Writing PowerShell scripts to enhance the DevOps Processes
-                      such as User Identification in LDAP environments
-                    </li>
-                    <li></li>
                   </ul>
                 </li>
               </ul>
@@ -98,94 +103,18 @@ function Experience() {
                 <li>
                   <ul>
                     <li>
-                      Writing SQL Queries for custom reports that clients need
-                    </li>
-                    <li>Client Relations and Rententions</li>
-                    <li>
-                      Python Scripts to convert file formats into compatiable
-                      formats
-                    </li>
-                    <li>
-                      Node JS application using Electron for desktop application
+                    As an Implementation Software Engineer at CTR Maine, I was responsible for a wide range of tasks, from writing SQL queries for custom reports to working on client relations and retentions. I leveraged my expertise in Python to develop scripts that converted file formats into compatible formats, which was critical to ensuring that our clients could access the information they needed in a timely and efficient manner. Additionally, I was responsible for developing a Node JS application using Electron for desktop application, which was well-received by our clients for its ease of use and reliability. Throughout my time at CTR Maine, I developed a deep understanding of the importance of working closely with clients to understand their needs and deliver solutions that meet their unique requirements. My expertise in software development and client relations helped me excel in this role and make a meaningful impact on the success of the company.
                     </li>
                   </ul>
                 </li>
               </ul>
             </li>
-            <br />
-            <li>
-              <ul>
-                <li>
-                  <strong>
-                    <u>
-                      <h5>Broadband Technician Support Respentive</h5>
-                    </u>
-                  </strong>
-                </li>
-                <li>Time Warner Cable</li>
-                <li>April 2011 - January 2015</li>
-                <li>
-                  <ul>
-                    <li>Handle Tech Support for Phone and Modem </li>
-                    <li>Deliver exceptional customer service </li>
-                    <li>Handle concern of customers</li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <br />
-            <li>
-              <ul>
-                <li>
-                  <strong>
-                    <u>
-                      <h5>Sales Manager and Computer Technician</h5>
-                    </u>
-                  </strong>
-                </li>
-                <li>Staples</li>
-                <li>September 2001 - January 2011</li>
-                <li>
-                  <ul>
-                    <li>Supplied technical support to digital copy center </li>
-                    <li>Computer repair</li>
-                    <li>Train employees to be better sales associates.</li>
-                    <li>Focus sales on driving attachments and services</li>
-                    <li>Manage a 6 million dollar store</li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <br />
           </ul>
+          
+        </div>
+        <div class="col-md-12 bg-info " style={{height: '1px', margin: '10px'}}>
         </div>
         <div className="col-md-6">
-          <ul>
-            <li>
-              <ul>
-                <li>
-                  <u>
-                    <strong>
-                      <h5>Intern</h5>
-                    </strong>
-                  </u>
-                </li>
-                <li>Motion Analysis Studios</li>
-                <li>June 2004 - September 2004</li>
-                <li>
-                  <ul>
-                    <li>Work closely with Technical director to set cameras</li>
-                    <li>
-                      Run "Motion Builder" while capturing and adjusting the
-                      skelton
-                    </li>
-                    <li>Apply Rig (skeleton) to model for real time capture</li>
-                    <li>Clean up motion data after capturing</li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
           <h3>
             <u>Education:</u>
           </h3>
@@ -207,7 +136,11 @@ function Experience() {
               </ul>
             </li>
             <br />
-            <li>
+          </ul>
+        </div>
+        <div className="col-md-6">
+          <ul>
+          <li>
               <ul>
                 <u>
                   <strong>

@@ -100,8 +100,8 @@ function AboutMe() {
             <div
               className="progress-bar bg-success BarText"
               role="progressbar"
-              style={{ width: "70%" }}
-              aria-valuenow="80"
+              style={{ width: "40%" }}
+              aria-valuenow="40"
               aria-valuemin="0"
               aria-valuemax="100"
             >
@@ -151,7 +151,7 @@ function AboutMe() {
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              Blender
+              Vue 2/3
             </div>
           </div>
 
@@ -221,18 +221,11 @@ function AboutMe() {
             <div className="card-body">
               <p className="card-text">
                 {" "}
-                I started this journey in California. I went to school for
-                animation. I fell in love with the creativity and problem
-                solving of the physics of animation. As my education moved into
-                the 3d realm, I discovered python as a scripting language. I
-                took to it as a bug to a flame. This helped with my previous job
-                as a Implementor for a local time and attendance reseller. As I
-                got use to writing calls in python to the Time and Attendance
-                software, I discovered as I dived deeper into the API that I
-                really need to build a front end for our clients to access data
-                outside of the software on occasion. I decided to seek more
-                education. I joined UNH Coding Boot Camp for Full Stack
-                Development.
+                <p className="card-text">
+                I started my journey in California, where I pursued a degree in animation. I quickly fell in love with the creativity and problem-solving aspects of animating, particularly the physics of animation. As I advanced my education into the 3D realm, I discovered Python as a scripting language and took to it as a bug to a flame.
+                </p><p>After graduation, I worked as an Implementor for a local time and attendance reseller, where I frequently used Python to write calls to the Time and Attendance software. As I delved deeper into the software's API, I realized that our clients needed a more accessible front-end to access data outside of the software.
+                This realization motivated me to seek more education and I enrolled in UNH Coding Bootcamp for Full Stack Development. There, I learned how to develop robust and user-friendly web applications.
+              </p>
               </p>
             </div>
           </div>
@@ -242,11 +235,9 @@ function AboutMe() {
             <div className="card-header">Currently</div>
             <div className="card-body">
               <p className="card-text">
-                I am working a Farmhand Automation creating a React application
-                to handle fleet management and remote connection to the robotic
-                farm bot. I also worked on developing a react native app for
-                clients to manage their farms and robots.{" "}
-              </p>
+              After completing the bootcamp, I joined Farmhand Automation, where I created a React application to manage fleets and remotely connect to robotic farm bots. I also developed a React Native app to help clients manage their farms and robots more efficiently.
+                <br/>Currently, I am working as a contract worker at Apple, focusing on backend development and Vue frontends for internal applications. My experience in developing full-stack applications and my expertise in Python and React have helped me excel in my current role.
+                </p>
             </div>
           </div>
         </div>
@@ -255,9 +246,8 @@ function AboutMe() {
             <div className="card-header">Hopeful</div>
             <div className="card-body">
               <p className="card-text">
-                I want to advance my knowleadge and experience in the React
-                workflow. I want develop my unit testing. I feel unit testing
-                will make my programming better.{" "}
+              Throughout my journey as a developer, I have found that constant growth and learning are essential to achieving success. As I reflect on my experiences so far, I am excited to continue pushing myself to learn more and take on new challenges.
+              <br/>In particular, I am eager to advance my knowledge and experience in the Vue workflow. As I have recently worked on Vue applications, I have come to appreciate the framework's flexibility and efficiency. I am excited to learn more about Vue's latest features and best practices to create even more robust and user-friendly applications.
               </p>
             </div>
           </div>
